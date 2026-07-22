@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandy Hisham</h1>
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_2.png)
+![]icons/header_2.png
 <h3 align="center">
 Artificial Intelligence • Data Science • Machine Learning
 </h3>
