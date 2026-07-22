@@ -1,4 +1,4 @@
-# Machine Learning Systems, Alignment, and Evaluation
+# Sandy Hisham
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_2.png)
 
