@@ -84,18 +84,6 @@ I'm currently working on AI and Data Science projects that will be uploaded here
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 <!--
 **halfrost/halfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -121,7 +109,6 @@ Here are some ideas to get you started:
 Vanity URL name">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 <a href="mailto: sandyhisham00mostafa@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
