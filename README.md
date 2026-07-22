@@ -92,6 +92,7 @@ I'm currently working on AI and Data Science projects that will be uploaded here
 Vanity URL name">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
 <a href="mailto: sandyhisham00mostafa@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
