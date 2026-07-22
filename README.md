@@ -81,7 +81,7 @@ My goal is to become an **AI Engineer** specializing in **Machine Learning** and
 Coming Soon...
 
 I'm currently working on AI and Data Science projects that will be uploaded here.
-
+<p>
 <!--
 **halfrost/halfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+</p>
 ---
 
 ## 🌐 Connect with Me
