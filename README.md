@@ -9,7 +9,7 @@ Artificial Intelligence • Data Science • Machine Learning
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com? font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Data+Science+Learner;Machine+Learning+Explorer;Always+Learning+Something+New+🚀" />
+<font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Data+Science+Learner;Machine+Learning+Explorer;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
@@ -92,7 +92,6 @@ I'm currently working on AI and Data Science projects that will be uploaded here
 Vanity URL name">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 <a href="mailto: sandyhisham00mostafa@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
