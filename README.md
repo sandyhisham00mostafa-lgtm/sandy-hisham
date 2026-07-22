@@ -96,21 +96,11 @@ I'm currently working on AI and Data Science projects that will be uploaded here
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sandy Hisham&theme=algolia&margin-w=10"/>
 
 </p>
 
@@ -125,7 +115,7 @@ Vanity URL name">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sandyhisham00mostafa@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
