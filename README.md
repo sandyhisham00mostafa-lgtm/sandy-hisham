@@ -120,7 +120,8 @@ I'm currently working on AI and Data Science projects that will be uploaded here
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/https://www.linkedin.com/in/sandy-hisham-4a2a71227
+Vanity URL name">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
