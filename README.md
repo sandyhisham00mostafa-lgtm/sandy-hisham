@@ -5,7 +5,8 @@ Artificial Intelligence • Data Science • Machine Learning
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Data+Science+Learner;Machine+Learning+Explorer;Always+Learning+Something+New+🚀" />
+  ![]icons/header_2.png
+<img src="https://readme-typing-svg.demolab.com? font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Data+Science+Learner;Machine+Learning+Explorer;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
